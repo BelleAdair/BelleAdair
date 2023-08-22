@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BelleAdair
+- 👋 Hi, I’m Heather!
 - 👀 I’m interested in coding, art and youtube
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on mini games
